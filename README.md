@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/minato-mcp-uuid-gen-badge.png)](https://mseep.ai/app/minato-mcp-uuid-gen)
+
 # mcp-uuid-gen
 
 UUID生成用のMCPサーバー
